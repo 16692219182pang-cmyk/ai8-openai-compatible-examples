@@ -1,0 +1,11 @@
+{
+  "models": [
+    {
+      "title": "AI8 GPT 5.5",
+      "provider": "openai",
+      "model": "gpt-5.5",
+      "apiBase": "https://ai8.my/v1",
+      "apiKey": "${AI8_API_KEY}"
+    }
+  ]
+}

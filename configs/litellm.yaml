@@ -1,0 +1,11 @@
+model_list:
+  - model_name: ai8-gpt-5-5
+    litellm_params:
+      model: openai/gpt-5.5
+      api_base: ${AI8_BASE_URL}
+      api_key: ${AI8_API_KEY}
+
+# Start LiteLLM:
+#   export AI8_API_KEY="your_ai8_api_key"
+#   export AI8_BASE_URL="https://ai8.my/v1"
+#   litellm --config configs/litellm.yaml --port 4000
