@@ -33,7 +33,7 @@ Topics:
 - openai-proxy
 - ai-api
 
-### GitHub PR
+### GitHub PR 1
 
 PR: https://github.com/ContextJet-ai/awesome-llm-observability/pull/1
 
@@ -50,6 +50,37 @@ Entry added:
 ```md
 | 🟠 [AI8/New API examples](https://github.com/16692219182pang-cmyk/ai8-openai-compatible-examples) | examples | commercial | OpenAI-compatible API gateway examples for testing one endpoint across multiple models. |
 ```
+
+Status: OPEN, mergeable.
+
+### GitHub PR 2
+
+PR: https://github.com/QuotaCheap/awesome-openai-compatible/pull/6
+
+Target: `QuotaCheap/awesome-openai-compatible`
+
+Reason:
+
+- Directly about OpenAI-compatible APIs, gateways, tools, SDK patterns, test harnesses, and production notes
+- Contributing rules allow PRs for tools, docs, examples, and production lessons
+- Rules say no affiliate spam; this PR links to the GitHub examples repo, not directly to the referral URL
+
+Entry added:
+
+```md
+- [AI8/New API examples](https://github.com/16692219182pang-cmyk/ai8-openai-compatible-examples) - SDK and tool configuration examples for testing a commercial OpenAI-compatible gateway.
+```
+
+Status: OPEN, mergeable.
+
+### V2EX status
+
+Public nodes checked:
+
+- https://www.v2ex.com/go/promotions
+- https://www.v2ex.com/go/create
+
+`/go/promotions` is the better match for a referral/signup promotion. It explicitly says vendor promotion topics should go there. I did not post because no confirmed logged-in browser session was available and I will not register/spam accounts.
 
 ## Next recommended posts
 
