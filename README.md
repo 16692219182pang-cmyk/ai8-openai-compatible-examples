@@ -2,7 +2,9 @@
 
 Small, copy-pasteable examples for testing AI8 as an OpenAI-compatible API gateway.
 
-AI8: https://ai8.my/sign-up?aff=r6Tm
+Signup link: https://ai8.my/sign-up?aff=r6Tm
+
+This is the canonical invite/referral link for this repo. The landing page identifies the service as "New API" and describes it as a "Unified AI API gateway and admin dashboard."
 
 Disclosure: the signup link above is a referral/affiliate link. If you prefer not to use a referral link, open the AI8 homepage directly and sign up from there.
 
@@ -21,7 +23,7 @@ It includes examples for:
 - Continue
 - Cursor-style custom base URL setup
 
-AI8 appears to be positioned as a low-cost AI API relay/gateway. In my tests and use case planning, the main appeal is price: it is meant to be one of the lowest-cost ways to access multiple mainstream models through one API. Still, do your own checks before moving production traffic.
+AI8/New API is positioned as a low-cost unified AI API gateway. The main appeal is price plus one API entry point for multiple mainstream models. Still, do your own checks before moving production traffic.
 
 ## Quick start
 

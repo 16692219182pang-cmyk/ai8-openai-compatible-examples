@@ -1,6 +1,6 @@
 # Disclosure
 
-This repository contains examples for testing AI8 as an OpenAI-compatible API gateway.
+This repository contains examples for testing AI8/New API as an OpenAI-compatible API gateway. The landing page describes it as a unified AI API gateway and admin dashboard.
 
 The signup link below is a referral/affiliate link:
 
